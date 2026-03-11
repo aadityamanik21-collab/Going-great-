@@ -1,7 +1,0 @@
-{
-  "name": "zenith-core",
-  "version": "1.0.0",
-  "scripts": {
-    "build": "npx tailwindcss -i ./input.css -o ./output.css --minify"
-  }
-}
